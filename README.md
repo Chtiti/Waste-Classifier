@@ -1,0 +1,1 @@
+In this project, we will learn how to create a waste classifier. We will have 4 different categories and 8 different objects to categories. We will also create a Graphical Interface to enhance the project’s appearance.
